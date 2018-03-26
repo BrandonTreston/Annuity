@@ -10,7 +10,7 @@ public class Annuity {
 		pmt =payment;
 		i = intrest;
 		n = numberOfPayments;
-		//assuming there is one payment per year
+		//ex: one payment per year == , 2 payments per year == 2
 	}
 	
 	public void calculateAnnuity() {
